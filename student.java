@@ -6,8 +6,10 @@ public class studyeasy {
 		int x = 7;
 		
 		int y = 12;
+		int z = 6;
 		short x = (byte)y;
 		System.out.println(y);
+		System.out.println("22");
 		System.out.println("1");
 		double v2 = 20.0123456789d;
 		float v1 = (float)v2;
