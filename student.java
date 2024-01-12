@@ -4,7 +4,7 @@ public class studyeasy {
 
 	public static void main(String[] args) {
     
-		int y = 10;
+		int y = 12;
 		short x = (byte)y;
 		System.out.println(y);
 		
